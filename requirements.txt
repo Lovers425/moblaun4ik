@@ -4,3 +4,4 @@ requests==2.31.0
 mega.py==1.0.8
 Flask==3.0.0
 psycopg2-binary==2.9.9
+ixml==4.9.2
